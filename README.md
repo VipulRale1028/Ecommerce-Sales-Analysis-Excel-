@@ -1,6 +1,6 @@
 # Ecommerce Sales Analysis in Excel
 
-Your Ecommerce Sales Analysis Dashboard is a well-organized and insightful Excel visualization that presents key metrics and performance indicators for an ecommerce business. Here’s a detailed description of each section of your dashboard:
+Ecommerce Sales Analysis Dashboard is a well-organized and insightful Excel visualization that presents key metrics and performance indicators for an ecommerce business. Here’s a detailed description of each section of dashboard:
 
 🔷 Overall Summary Metrics (Top Row)
 This row gives a quick glance at the most important KPIs:
